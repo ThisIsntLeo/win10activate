@@ -8,4 +8,4 @@ Click "Properties"
 Then scroll down till you find "Windows 10/11 ___"
 If 2004 or older, should appear on 1st line.
 # Activating
-Make sure you # run as an administrator # otherwise it won't activate.
+Make sure you run as an administrator otherwise it won't activate.
